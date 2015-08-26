@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails delayed_job_app: development" uuid="7516b8a2-bd6f-482e-a37a-5aa364367078">
+      <secret-storage>memory</secret-storage>
+    </data-source>
+  </component>
+</project>
