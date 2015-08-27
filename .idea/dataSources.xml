@@ -4,7 +4,7 @@
     <data-source source="LOCAL" name="Rails delayed_job_app: development" uuid="7516b8a2-bd6f-482e-a37a-5aa364367078">
       <driver-ref>sqlite.xerial</driver-ref>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/db/development.sqlite3</jdbc-url>
+      <jdbc-url>jdbc:postgresql:delayed_job_app</jdbc-url>
       <libraries />
     </data-source>
   </component>
